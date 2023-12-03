@@ -1,7 +1,5 @@
 # Advent of Code - Day 1
 
-## Process
-
 ### Problem Statement
 <hr>
 
